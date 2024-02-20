@@ -10,10 +10,8 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact)
-
-<br/><br/>
 
 ## ☕ Connect with me!
 ### Link : [Facebook](https://www.facebook.com/mozioun/) <br> 
