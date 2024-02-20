@@ -1,5 +1,11 @@
 <img width="100%" style="float: right; border-radius: 50px; overflow: hidden;" alt="Coding" src="img/output-onlinegiftools.gif">
 
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
 <h1 align="center">Hi I'm Zioun Khan</h1>
 <h3 align="center">A passionate Wev developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
