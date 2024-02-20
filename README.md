@@ -9,9 +9,8 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
-
+## 👨‍💻 Skills & Experiance: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
 ## ☕ Connect with me!
 ### Link : [Facebook](https://www.facebook.com/mozioun/) <br> 
@@ -22,8 +21,3 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 
 ## 🌍 Website
 ✅  ► https://wsproviders.com/"
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
-
