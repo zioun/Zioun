@@ -5,16 +5,17 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 
 
 ## 👨‍💻 Skills & Experiance: 
-✅ JavaScript <br> 
-✅ React <br>
-✅ React Router Dom <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind CSS <br>
-✅ Firebase <br>
-✅ Node Js <br>
-✅ Express Js <br>
-✅ Mongo DB <br>
-✅ JWT <br>
-✅ Figma <br>
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact)
 
