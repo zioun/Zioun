@@ -19,7 +19,7 @@ As a full stack web developer, I am proficient in both the front-end and back-en
 ✅ Figma <br>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zioun&show_icons=true&locale=en&layout=compact" alt="zioun" />
+<img style="display:block;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zioun&show_icons=true&locale=en&layout=compact" alt="zioun" />
 
 
 
