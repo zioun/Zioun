@@ -11,7 +11,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact)
+
 
 ## ☕ Connect with me!
 ### Link : [Facebook](https://www.facebook.com/mozioun/) <br> 
@@ -22,4 +22,8 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 
 ## 🌍 Website
 ✅  ► https://wsproviders.com/"
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
 
