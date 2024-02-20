@@ -19,12 +19,7 @@ As a full stack web developer, I am proficient in both the front-end and back-en
 ✅ JWT <br>
 ✅ Figma <br>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zioun&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact)
-
-
 
 ## ☕ Connect with me!
 ### Link : [Facebook](https://www.facebook.com/mozioun/) <br> 
