@@ -3,13 +3,13 @@
 ## 🚀 About Me
 As a full-stack web developer, I am proficient in both the front-end and back-end aspects of web development, capable of crafting dynamic and responsive websites from start to finish. With expertise in various programming languages, frameworks, and technologies, I possess the skills to bring concepts to life and deliver robust web solutions.
 
-## 👨‍💻 Skills & Experiance: 
+## 💡 Skills & Experiance: 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,mysql" /><br>
 </div>
 
-## 👨‍💻 Skills & Experiance: 
+## ⌛ Progress: 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact)
 
 ## ☕ Connect with me!
