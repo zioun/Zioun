@@ -46,18 +46,13 @@
 </p>
 
 <br />
-
-<p align="center">
-<a href="https://web.programming-hero.com/course-details">
-<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/curriculum.png"/>
-</a>
 </p>
 
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zioun&show_icons=true&locale=en&layout=compact" alt="zioun" /></p>
+<p><img width="100%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zioun&show_icons=true&locale=en&layout=compact" alt="zioun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zioun&show_icons=true&locale=en" alt="zioun" /></p>
+<p>&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=zioun&show_icons=true&locale=en" alt="zioun" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zioun&" alt="zioun" /></p>
+<p><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zioun&" alt="zioun" /></p>
