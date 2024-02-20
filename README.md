@@ -1,4 +1,4 @@
-<img width="100%" style="float: right; border-radius: 50px; overflow: hidden;" alt="Coding" src="img/Responsive Website Design.gif">
+<img width="100%" style="float: right; border-radius: 50px; overflow: hidden;" alt="Coding" src="img/Responsive Website Design (2).gif">
 
 <h1 align="center">Hi I'm Zioun Khan</h1>
 <h3 align="center">A passionate Wev developer from Bangladesh</h3>
