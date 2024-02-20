@@ -13,8 +13,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact)
 
 ## ☕ Connect with me!
-### ![image](https://github.com/Zioun/Zioun/assets/114159520/9942fe94-9b9a-4db5-bf83-9e9398d2e6b5)
-<br> 
+### 🌍 : [Facebook](https://www.facebook.com/mozioun/) <br> 
 ### 📧 : [Gmail](jionkhan0@gmail.com) <br> 
 ### 🌍 : [Website](https://wsproviders.com/) <br> 
 
