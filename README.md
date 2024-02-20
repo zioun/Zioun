@@ -1,4 +1,4 @@
-<img style="float: right; border-radius: 50px;" alt="Coding" src="https://i.pinimg.com/originals/38/7e/4f/387e4f52081bfebd6ba96d9d784e9f94.gif">
+<img style="float: right; border-radius: 50px; overflow: hidden;" alt="Coding" src="https://i.pinimg.com/originals/38/7e/4f/387e4f52081bfebd6ba96d9d784e9f94.gif">
 
 <h1 align="center">Hi I'm Zioun Khan</h1>
 <h3 align="center">A passionate Wev developer from Bangladesh</h3>
