@@ -26,10 +26,7 @@ As a full stack web developer, I am proficient in both the front-end and back-en
 
 
 ## ☕ Connect with me!
-### Facebook : [mozioun](https://www.facebook.com/mozioun/) <br> 
-✅ React <br>
-✅ React Router Dom <br>
-
+### Link : [Facebook](https://www.facebook.com/mozioun/) <br> 
 
 
 ## 📧 For Business Inquiries 
