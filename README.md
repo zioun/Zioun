@@ -11,9 +11,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact)
 
 <br/><br/>
 
