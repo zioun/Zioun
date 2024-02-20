@@ -1,6 +1,6 @@
 ## Hi, I'm Zioun Khan 👋
 
-<>
+
 <img src="img/Responsive Website Design (2).gif" alt="web development" width="100%">
 
 ## 🚀 About Me
@@ -18,7 +18,7 @@ As a full stack web developer, I am proficient in both the front-end and back-en
 ✅ JWT <br>
 ✅ Figma <br>
 
-
+<div style="width:100%;"></div>
 <img style="display:block;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zioun&show_icons=true&locale=en&layout=compact" alt="zioun" />
 
 
