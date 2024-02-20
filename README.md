@@ -1,30 +1,11 @@
-<img width="100%" style="float: right; border-radius: 50px; overflow: hidden;" alt="Coding" src="img/Responsive Website Design (2).gif">
-
-<h1 align="center">Hi I'm Zioun Khan</h1>
-<h3 align="center">A passionate Wev developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zioun&label=Profile%20views&color=0e75b6&style=flat" alt="zioun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zioun" alt="zioun" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://zioun.github.io/web-portfolio/](https://zioun.github.io/web-portfolio/)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **ziounkhan@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/zioun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zioun" height="30" width="40" /></a>
-</p>
+### Hi there 👋, I'm Zioun Khan
+#### Full Stack Web Developer
+![Full Stack Web Developer](https://i.pinimg.com/originals/4c/c0/03/4cc003e1e3b855c7b062b843aea1d9ed.gif)
 
 
-## :bulb: Languages and Tools:
+As a full stack web developer, I am proficient in both the front-end and back-end aspects of web development, capable of crafting dynamic and responsive websites from start to finish. With expertise in various programming languages, frameworks, and technologies, I possess the skills to bring concepts to life and deliver robust web solutions.
+
+## :bulb: Skills
 
 <p align="center">
 <img height="150" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/HTML.png"/>
@@ -46,13 +27,20 @@
 </p>
 
 <br />
-</p>
 
-<br/>
-<br/>
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zioun&show_icons=true&locale=en&layout=compact" alt="zioun" /></p>
+## :mailbox: Contact with us
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=zioun&show_icons=true&locale=en" alt="zioun" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zioun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mozioun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/zioun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/zioun)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wsproviders.com/)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zioun&" alt="zioun" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=zioun)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioun)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zioun&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=zioun)  
+
