@@ -51,7 +51,7 @@
 <br/>
 <br/>
 
-<p><img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zioun&show_icons=true&locale=en&layout=compact" alt="zioun" /></p>
+<p><img height="200px" width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zioun&show_icons=true&locale=en&layout=compact" alt="zioun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zioun&show_icons=true&locale=en" alt="zioun" /></p>
 
