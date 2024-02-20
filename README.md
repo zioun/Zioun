@@ -9,7 +9,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
-<h2 align="left">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-zioun.vercel.app/?user=zioun&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
