@@ -1,9 +1,7 @@
-<div align="center">
-    ## Hi, I'm Ali Hossain 👋
-</div>
+
+## Hi, I'm Ali Hossain 👋
 <img src="img/Responsive Website Design (2).gif" alt="web development" width="100%">
-## 🚀 About Me
-As a full-stack web developer, I am proficient in both the front-end and back-end aspects of web development, capable of crafting dynamic and responsive websites from start to finish. With expertise in various programming languages, frameworks, and technologies, I possess the skills to bring concepts to life and deliver robust web solutions.
+## 🚀 About Me As a full-stack web developer, I am proficient in both the front-end and back-end aspects of web development, capable of crafting dynamic and responsive websites from start to finish. With expertise in various programming languages, frameworks, and technologies, I possess the skills to bring concepts to life and deliver robust web solutions.
 
 <div align="center">
     ## 👨‍💻 Skills & Experiance: 
