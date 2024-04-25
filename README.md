@@ -13,6 +13,6 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact)
 
 ## ☕ Connect with me!
-#### ✉ : [jionkhan0@gmail.com]() <br> 
+#### ✉ : [jionkhan0@gmail.com]() <br>  
  
 
