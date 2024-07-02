@@ -11,7 +11,8 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=zioun&theme=light" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zioun&theme=light" alt="GitHub Stats">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=zioun&amp;show_icons=true&theme=light" alt="GitHub Stats">
 </p>
 
 ## ⌛ Progress: 
