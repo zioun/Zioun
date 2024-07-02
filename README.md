@@ -21,7 +21,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 </div>
 
 ## ☕ Connect with me!
-[<img src='https://github.com/zioun/zioun/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/shovoalways)  [<img src='https://github.com/zioun/zioun/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/MOZiounKhan)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/zioun/)
 #### ✉ : [jionkhan0@gmail.com]() <br>  
 
   
