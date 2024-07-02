@@ -1,5 +1,5 @@
 ## Hi, I'm Zioun Khan 👋
-<img src="img/Responsive Website Design (2).gif" alt="web development" width="100%"><br>
+<img src="https://i.ibb.co/LSZG6Mf/Neutral-Modern-Web-Developer-Linked-In-Banner.png" alt="web development" width="100%"><br>
 ## 👨‍💻 About Me
 As a full-stack web developer, I am proficient in both the front-end and back-end aspects of web development, capable of crafting dynamic and responsive websites from start to finish. With expertise in various programming languages, frameworks, and technologies, I possess the skills to bring concepts to life and deliver robust web solutions.
 
