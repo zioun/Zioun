@@ -22,7 +22,12 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 
 ## ☕ Connect with me!
 <div align="center">
-[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/MOZiounKhan)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/zioun/) 
+  <a href="https://www.facebook.com/MOZiounKhan" target="_blank">
+    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true" alt="facebook" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/zioun/" target="_blank">
+    <img src="https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true" alt="linkedin" height="40">
+  </a>
 </div>
 
   
