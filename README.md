@@ -29,6 +29,5 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
     <img src="https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true" alt="linkedin" height="40">
   </a>
 </div>
-
   
 
