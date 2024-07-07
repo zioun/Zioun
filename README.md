@@ -30,5 +30,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
   </a>
 </div>
 <hr/>
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=zioun&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
