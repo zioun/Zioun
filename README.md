@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=zioun&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Hi, I'm Zioun Khan 👋
 <img src="https://i.ibb.co/drw50zn/Neutral-Modern-Web-Developer-Linked-In-Banner.gif" alt="web development" width="100%"><br>
 ## 👨‍💻 About Me
@@ -30,5 +29,6 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
     <img src="https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true" alt="linkedin" height="40">
   </a>
 </div>
-  
+
+[![](https://visitcount.itsvg.in/api?id=zioun&icon=0&color=0)](https://visitcount.itsvg.in)
 
