@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=zioun&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Hi, I'm Zioun Khan 👋
 <img src="https://i.ibb.co/drw50zn/Neutral-Modern-Web-Developer-Linked-In-Banner.gif" alt="web development" width="100%"><br>
 ## 👨‍💻 About Me
