@@ -5,7 +5,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 
 ## 💡 Skills & Experiance: 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,materialui,javascript,react,express,nodejs,jwt,firebase,mongodb,nextjs,redux,vercel,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,materialui,javascript,react,express,nodejs,firebase,mongodb,nextjs,redux,vercel,netlify" />
     <img src="https://skillicons.dev/icons?i=github,vscode,figma,git" /><br>
 </div>
 
