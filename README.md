@@ -20,7 +20,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact" alt="Top Langs">
 </div>
 
-## :chart_with_upwards_trend Graph: 
+## :chart_with_upwards_trend: Current Stats:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roushan-sheik&theme=default&bg_color=ffffff&color=1F243C&line=1F243C&point=1F243C&hide_border=true" width="100%"/>
 </div>
