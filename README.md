@@ -22,7 +22,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 
 ## ⌛ Progress: 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zioun&theme=react-light&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roushan-sheik&theme=github&bg_color=ffffff&hide_border=true" width="100%"/>
 </div>
 
 
