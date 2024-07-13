@@ -20,6 +20,13 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact" alt="Top Langs">
 </div>
 
+## ⌛ Progress: 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roushan-sheik&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+
+
 ## ☕ Connect with me!
 <div align="center">
   <a href="https://www.facebook.com/MOZiounKhan" target="_blank">
