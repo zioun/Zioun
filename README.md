@@ -9,7 +9,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
     <img src="https://skillicons.dev/icons?i=vercel,netlify,github,vscode,figma,git" /><br>
 </div>
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Current Stats:
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=zioun&theme=light" alt="GitHub Stats">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=zioun&amp;show_icons=true&theme=light" alt="GitHub Stats">
@@ -20,11 +20,9 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zioun&layout=compact" alt="Top Langs">
 </div>
 
-## ⌛ Progress: 
+## :chart_with_upwards_trend Graph: 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roushan-sheik&theme=default&bg_color=ffffff&color=000000&line=000000&point=000000&hide_border=true" width="100%"/>
-
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roushan-sheik&theme=default&bg_color=ffffff&color=1F243C&line=1F243C&point=1F243C&hide_border=true" width="100%"/>
 </div>
 
 
