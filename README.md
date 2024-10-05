@@ -7,7 +7,7 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,materialui,javascript,typescript,react,express,nodejs,firebase,mongodb,nextjs" />
     <img src="https://skillicons.dev/icons?i=redux,docker,vercel,netlify,github,vscode,figma,git" />
-    <img src="https://skillicons.dev/icons?i=shopify,wordpress" alt="Shopify and WordPress Icons"><br>
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress"><br>
 </div>
 
 ## :chart_with_upwards_trend: Current Stats:
