@@ -7,7 +7,8 @@ As a full-stack web developer, I am proficient in both the front-end and back-en
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,materialui,php,laravel,javascript,typescript,jquery,react,express,nodejs,firebase" />
     <img src="https://skillicons.dev/icons?i=postgresql,mongodb,prisma,nextjs,vercel,netlify,github,vscode,figma,notion,git,postman" />
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress"><br>
+    <img src="https://skillicons.dev/icons?i=wordpress">
+    <img src="https://skillicons.dev/icons?i=postman"><br>
 </div>
 
 ## :chart_with_upwards_trend: Current Stats:
